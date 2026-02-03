@@ -1,5 +1,6 @@
 # 🛡️ Termux Cyber Framework
 
+![GitHub release](https://img.shields.io/github/v/release/Gaucho-2high/Termux-cyber-framework)
 ![Version](https://img.shields.io/badge/version-v0.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-green)
 ![Platform](https://img.shields.io/badge/platform-Termux-black)
