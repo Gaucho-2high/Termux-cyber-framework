@@ -1,5 +1,4 @@
 # 🛡️ Termux Cyber Framework
-# 🛡️ Termux Cyber Framework
 
 ![Version](https://img.shields.io/badge/version-v0.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-green)
