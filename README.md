@@ -1,4 +1,9 @@
 # 🛡️ Termux Cyber Framework
+# 🛡️ Termux Cyber Framework
+
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-green)
+![Platform](https://img.shields.io/badge/platform-Termux-black)
 
 A modular, educational **cybersecurity framework built for Termux**.  
 Designed to help students and beginners understand **network scanning, device discovery, web vulnerability testing, logging, and reporting** — step by step.
